@@ -9,7 +9,7 @@ It's not good code.
 
 In future i will update this.
 
-In it's slow!!
+it's slow!!
 
 Better code : "https://github.com/FillahAlamsyah/Belajar-Manim/blob/main/fourier_epicycles.py" 
 (FillahAlamsyah/Belajar-Manim) manim ce ?
