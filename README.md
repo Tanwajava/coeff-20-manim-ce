@@ -14,4 +14,4 @@ it's slow!!
 Better code : "https://github.com/FillahAlamsyah/Belajar-Manim/blob/main/fourier_epicycles.py" 
 (FillahAlamsyah/Belajar-Manim) manim ce ?
 
-Better code is using Fast Fourier Transform
+Better code is using Fast Fourier Transform and making better animation
